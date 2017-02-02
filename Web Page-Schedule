@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<meta charset="UTF-8">
+	<title>IIT Schedule</title>
+</head>
+<body>
+	<h1> My Schedule </h1>
+	<h2> Monday </h2>
+		<p> PS 214 - State and Goverment </p>
+		<p> ITM 312 - Intro Systems Software Programing </p>
+	
+	<h2> Tuesday </h2>
+		<p> ITM 311 - Intro to Software Development </p>
+		
+	<h2> Wednesday </h2>
+		<p> PS 214 - State and Goverment </p>
+		<p> ITMD 361 - Fund of Web Development </p>
+</body>	
+</html>
+	
+	<img src="https://science.iit.edu/sites/science/files/field_uploads/slideshow/iit.jpg" />
+	<h2> Thank you for your time. </h2>
+
+
+
+
+
+
+
+
+
+
+
